@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">layout-final-part1</string>
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="loginHint">Enter a Username</string>
+    <string name="loginButtonText">"Login</string>
+
+    <string name="errMessageLogin">Invalid Login.  Please Retry</string>
+    <string name="errMessagePassword">Invalid Password.  Please Retry</string>
+
+</resources>
